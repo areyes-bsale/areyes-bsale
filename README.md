@@ -1,6 +1,11 @@
 # Hi there, I am a human earthling named Andrés Reyes
 
-![imagen](https://github.com/areyes-bsale/areyes-bsale/assets/80769303/e14e535e-9049-47cb-949e-9c6595c96283)
+<p align="center">
+  <img align="center" src="https://github.com/areyes-bsale/areyes-bsale/assets/80769303/e14e535e-9049-47cb-949e-9c6595c96283"/>
+
+</p>
+
+
 
 
 Hay más info acerca de mi en el perfil de mi [cuenta personal de github](https://github.com/profe-ajedrez)
