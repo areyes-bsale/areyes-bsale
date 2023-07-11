@@ -1,9 +1,10 @@
 # Hi there, I am a human earthling named Andrés Reyes
 
 <p align="center">
-  <img align="center" src="https://github.com/areyes-bsale/areyes-bsale/assets/80769303/e14e535e-9049-47cb-949e-9c6595c96283"/>
+  <img align="center" src="https://github.com/areyes-bsale/areyes-bsale/assets/80769303/fa6c0b9b-6bb0-42a0-875e-4de1e0926ce2"/>
 
 </p>
+
 
 
 
