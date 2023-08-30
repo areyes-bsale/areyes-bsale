@@ -1,4 +1,4 @@
-# Hi there, I am a human earthling named Andrés Reyes
+# Hi there, I am a hume earthling named Andrés Reyes
 
 <p align="center">
   <img align="center" src="https://github.com/areyes-bsale/areyes-bsale/blob/7dcb1975c093e3cfa743f7274c2a480413d70034/1633285102.maokaw_fae_big.gif"/>
