@@ -22,6 +22,6 @@ Nadie nos quiere.
 
 
 - 🔭 I’m currently working on apis
-- 🌱 I’m currently learning c, go and rust
+- 🌱 I’m currently studying sicp, csapp and ddia
 - 💬 Ask me [anything](https://github.com/areyes-bsale/areyes-bsale/issues)
 - 📫 How to reach me: areyes [at] imaginex.cl
