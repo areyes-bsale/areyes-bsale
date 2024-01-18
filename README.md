@@ -19,7 +19,7 @@ Nadie nos quiere.
 
 
 - 🔭 I’m currently working on apis and microservices
-- 🌱 I’m currently studying sicp, csapp and ddia
+- 🌱 I’m currently studying anything at my reach
 - 💬 Ask me [anything](https://github.com/areyes-bsale/areyes-bsale/issues)
 - 📫 How to reach me: areyes [at] imaginex.cl
 
