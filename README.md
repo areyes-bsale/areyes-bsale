@@ -29,7 +29,7 @@ Nadie nos quiere.
 - 💬 Ask me [anything](https://github.com/areyes-bsale/areyes-bsale/issues)
 - 📫 How to reach me: areyes [at] imaginex.cl
 
-https://github-readme-stats.vercel.app/api/top-langs?username=profe-ajedrez&show_icons=true&locale=en&layout=compact
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profe-ajedrez&show_icons=true&locale=en&layout=compact" />
 
-https://github-profile-trophy.vercel.app/?username=profe-ajedrez
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=profe-ajedrez" />
 
