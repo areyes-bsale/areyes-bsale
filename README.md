@@ -9,6 +9,11 @@ Hay más info acerca de mi en el perfil de mi [cuenta personal de github](https:
 
 Miembro de 
 
+![thunder_eye](https://github.com/user-attachments/assets/6ef10a8f-a05e-434c-9126-f0a170b85e76)
+
+
+Former
+
 ![imagen](https://user-images.githubusercontent.com/80769303/191494637-8e5c1944-f47e-4ec7-b2c6-2ba802011a5d.png)
 
 
